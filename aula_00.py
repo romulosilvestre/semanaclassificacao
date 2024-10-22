@@ -1,0 +1,5 @@
+print("0- Ambientando a Venv")
+print("1- Primeiro abra o seu prompt")
+print("2- Use o comando: python -m venv venv")
+print("3- Ative a venv com o comando: venv\Scripts\activate ")
+print("4- Com a venv ativada Rode esse algoritmo com o comando : python aula_00.py")
